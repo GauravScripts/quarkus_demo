@@ -89,6 +89,7 @@
                 <version>${surefire-plugin.version}</version>
                 <executions>
                     <execution>
+
                         <goals>
                             <goal>integration-test</goal>
                             <goal>verify</goal>
